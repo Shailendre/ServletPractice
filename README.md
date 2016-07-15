@@ -1,2 +1,2 @@
 # ServletPractice
-various ample servlets.
+various sample servlets.
